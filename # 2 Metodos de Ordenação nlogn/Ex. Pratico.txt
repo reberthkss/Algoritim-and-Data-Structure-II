@@ -1,0 +1,7 @@
+Pesquise sobre o algoritmo MergeSort e responda as questões a seguir.
+a) Descreva as semelhanças e diferenças com o algoritmo Quicksort.
+b) Execute um código do Mergesort e um do Quicksort num vetor de 100.000
+elementos preenchidos aleatoriamente e mostre o tempo de execução que cada
+algoritmo levou para ordenar o vetor.
+(Pode usar algoritmos do Quick e Merge de outros autores, indique a fonte
+consultada!)

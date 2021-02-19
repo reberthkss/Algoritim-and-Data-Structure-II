@@ -1,0 +1,3 @@
+Elabore a sua solução para o problema sem utilizar funções prontas para gerar
+permutações/ordenação. Programe os algoritmos mais eficientes possíveis para passar no
+tempo definido pela plataforma.
