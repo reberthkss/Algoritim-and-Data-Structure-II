@@ -25,3 +25,7 @@ Pending...
 ***Playlists***: 
 * https://www.youtube.com/watch?v=bryesHll0vY&list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka
 * https://www.youtube.com/watch?v=iE3_JWR-yaE&list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp
+
+# Contribuitions
+
+Feel free to contribute to this repo. Useful links and code reviewing always be welcome! :)
