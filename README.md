@@ -10,7 +10,7 @@ Algorithms with O(n log n)
 Algorithms with O(log n)
 # #4 - [Balanced Binary tree (AVL)](https://github.com/reberthkss/Algoritim-and-Data-Structure-II/tree/master/%23%204%20Arvore%20AVL)
 Algorithms with O(n)
-# #5 - B Binary
+# #5 - [B Binary](https://github.com/reberthkss/Algoritim-and-Data-Structure-II/tree/master/%23%205%20%C3%81rvore%20B)
 Algorithms with O(log n)
 # #6 - [Black-Red Binary Tree](https://github.com/reberthkss/Algoritim-and-Data-Structure-II/tree/master/%23%206%20Arvore%20do%20Flamengo)
 Algorithms with O(log n)
