@@ -20,7 +20,7 @@ Algorithms with O(1)
 Pending...
 
 
-# Recomendations
+# Recommendations
 
 ***Playlists***: 
 * https://www.youtube.com/watch?v=bryesHll0vY&list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka
